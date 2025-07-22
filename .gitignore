@@ -1,0 +1,30 @@
+# Pliki binarne
+*.exe
+*.dll
+*.out
+*.o
+*.obj
+*.lib
+*.a
+*.so
+
+# Foldery buildów
+build/
+bin/
+dist/
+
+# Pliki zależności
+*.log
+*.tmp
+
+# Visual Studio / VS Code
+.vscode/
+*.sln
+*.vcxproj*
+*.user
+*.opensdf
+*.sdf
+*.cache
+
+# SFML - jeżeli masz folder z biblioteką (lepiej nie wrzucaj jej do repo)
+SFML/
