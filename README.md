@@ -23,5 +23,5 @@ Prosta gra w kółko i krzyżyk (Tic-Tac-Toe) stworzona w języku C++ z wykorzys
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone https://github.com/twoj-nick/tic-tac-toe-sfml.git
+   git clone https://github.com/trakerek/tic-tac-toe-sfml.git
    cd tic-tac-toe-sfml
