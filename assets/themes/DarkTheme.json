@@ -1,0 +1,13 @@
+{
+  "name": "DarkTheme",
+  "backgroundColor":  [20,20,30],
+  "xColor": [255,100,100],
+  "oColor": [0,200,255],
+  "bColor" : [40,40,60],
+  "font": "../assets/arial.ttf",
+  "sound": "assets/sound.mp3",
+  "outlineColor": [60,60,80],
+  "fontcolor": [220,220,240],
+  "outlineWidth": 5,
+  "settingsimg" : "../assets/Ciemny.png"
+}

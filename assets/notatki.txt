@@ -1,0 +1,5 @@
+kompilacja:
+g++ -std=c++17 kik.cpp -IC:/SFML/include -LC:/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o gra.exe
+rect 200 100
+poz 200 300 
+g++ -std=c++17 kik.cpp -IC:/SFML/include -LC:/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o gra.exe

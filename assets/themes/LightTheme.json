@@ -1,0 +1,13 @@
+{
+  "name": "LightTheme",
+  "backgroundColor":  [245,245,245],
+  "xColor": [255,80,80],
+  "oColor": [0,140,255],
+  "bColor" : [220,220,220],
+  "font": "../assets/arial.ttf",
+  "sound": "assets/sound.mp3",
+  "outlineColor": [180,180,180],
+  "fontcolor": [30,30,30],
+  "outlineWidth": 5,
+  "settingsimg" : "../assets/Jasny.png"
+}
